@@ -1,0 +1,27 @@
+{
+  "name": "mongoelastic",
+  "version": "1.0.0",
+  "description": "use mongodb and elasticsearch on the same DB object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boubaks/mongoelastic.git"
+  },
+  "keywords": [
+    "mongodb",
+    "elasticsearch"
+  ],
+  "author": "boubaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boubaks/mongoelastic/issues"
+  },
+  "homepage": "https://github.com/boubaks/mongoelastic#readme",
+  "dependencies": {
+    "elasticsearch-client": "^1.0.1",
+    "mongodb": "^2.2.11"
+  }
+}
