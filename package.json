@@ -22,6 +22,7 @@
   "homepage": "https://github.com/boubaks/mongoelastic#readme",
   "dependencies": {
     "elasticsearch-client": "^1.0.1",
+    "events": "^1.1.1",
     "mongodb": "^2.2.11"
   }
 }
